@@ -1,0 +1,148 @@
+@media (max-width: 991px) {
+
+
+    /*  ========== Navbar Start ==================== */
+
+    #navigation .navbar-toggler {
+        border: 1px solid #35353517;
+    }
+
+    #navigation {
+        padding: 20px 0;
+    }
+
+    #offcanvasRight ul li a {
+        font-family: var(--font-family);
+        font-weight: 500;
+        font-size: 15px;
+        line-height: 200%;
+        color: #353535;
+        /* background: #f8bc17; */
+        padding: 15px 25px;
+        text-align: center;
+        position: relative;
+    }
+
+
+
+
+
+    #offcanvasRight ul li a:hover {
+        /* color: #353535; */
+        background: #5351510e;
+        border-radius: 20px;
+    }
+
+    /*  ========== Navbar End ==================== */
+
+
+
+
+
+
+
+    /*-- ========== Coming Soon START ==================== --*/
+    /*-- ========== Coming Soon END ==================== --*/
+
+
+
+
+
+
+
+
+    /*-- ========== FOOTER SECTION START ==================== --*/
+
+
+
+    #footer .f_child_row {
+        text-align: center;
+    }
+
+
+
+
+    #footer .f_child_row .logo_ a {
+        display: inline-block;
+        margin-bottom: 35px;
+    }
+
+
+
+
+    #footer .f_child_ancor {
+        text-align: center;
+        margin-top: 55px;
+    }
+
+    #footer .f_child_row .contains_ h4 {
+        font-weight: 650;
+        font-size: 33px;
+        line-height: 163%;
+        margin-bottom: 20px;
+    }
+
+
+
+
+    #footer .f_child_row .contains_ p {
+        font-family: var(--font-family);
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 180%;
+        text-align: center;
+        color: #bbb9b9;
+    }
+
+
+
+
+
+    #footer .f_child_row .contacts_ {
+        margin-bottom: 30px;
+    }
+
+
+
+    #footer .f_child_row .contacts_ p {
+        text-align: center;
+    }
+
+
+
+    #footer .f_parent_row:last-child {
+        margin-top: 70px;
+    }
+
+
+
+    #footer .f_child_socials {
+        justify-content: center !important;
+        padding-left: 18px;
+    }
+
+
+
+
+    #footer .vector {
+        bottom: 24%;
+        left: -36%;
+    }
+
+    #footer .ellipse {
+        top: 46%;
+        right: 9%;
+        left: initial;
+    }
+
+
+    #footer .polygon {
+        top: 7%;
+        left: 5%;
+    }
+
+
+
+    /*-- ========== FOOTER SECTION END ==================== --*/
+
+}
